@@ -1,0 +1,126 @@
+About NVIDIA
+NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing.
+
+© 2026 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
+
+https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195
+
+NVIDIA Sets Conference Call for Second-Quarter Financial Results
+Written CFO Commentary to Be Provided Ahead of Call
+July 29, 2026
+
+NVIDIA will host a conference call on Wednesday, August 26, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the second quarter of fiscal year 2027, which ended July 26, 2026.
+
+The call will be webcast live (in listen-only mode) on investor.nvidia.com. The company’s prepared remarks will be followed by a Q&A session, which will be limited to questions from financial analysts and institutional investors.
+
+Ahead of the call, NVIDIA will provide written commentary on its second-quarter results from Colette Kress, the company’s executive vice president and chief financial officer. This material will be posted to investor.nvidia.com immediately after the company’s results are publicly announced at approximately 1:20 p.m. PT.
+
+The webcast will be recorded and available for replay until the company’s conference call to discuss financial results for its third quarter of fiscal year 2027.
+--------
+https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/
+Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW
+This back-to-school season, GeForce NOW turns everyday school laptops into gaming PCs, with ‘Halo: Campaign Evolved’ and eight new games streaming this GFN Thursday.
+July 30, 2026 by GeForce NOW Community
+
+Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all.
+
+With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. 
+
+When it’s time to switch from studying to gaming, members can jump into Halo: Campaign Evolved, as GeForce NOW is bringing one of the gaming world’s most celebrated titles to nearly any device through the cloud, alongside eight total games joining the GeForce NOW library this week.
+
+From A+ to AAA Gaming 
+This back-to-school season, the easiest upgrade isn’t replacing laptops in backpacks. It’s unlocking even more from these same laptops, from creating to gaming.
+
+With a GeForce NOW membership, Chromebooks, Macs and Surface devices can become GeForce RTX-powered gaming PCs in the cloud. The GeForce NOW library features thousands of supported PC games, letting members stream titles they already own from digital stores like Steam, Xbox PC Game Pass and Epic Games Store in just a few clicks.
+
+The cloud keeps games up to date and ready to play, making it easy to jump into a match between classes, after homework or whenever there’s free time. Time spent waiting on downloads, patches and installs becomes time spent in game instead.
+
+The Ultimate membership enables best-in-class experiences by delivering 5080-class performance in the cloud with NVIDIA DLSS, ray tracing and NVIDIA Reflex technologies for responsive, visually rich gameplay — all on the hardware gamers already own.
+
+
+A creator known as “Menguiny” recently put this to the test after picking up a MacBook Neo. GeForce NOW turned the laptop — usually the creator’s go-to for editing videos and everyday work — into a top-notch gaming machine, too.
+
+Another creator, “TechWithSeong” highlighted that same versatility GeForce NOW offers. Rather than juggling separate devices for work and gaming, he used GeForce NOW Ultimate to stream supported PC games across the devices he already owns — from a MacBook used for editing to gaming on the go with handheld devices.
+
+Gamers can start with a day pass and experience all the premium benefits without a monthly commitment. Plus, the cost of a day pass can be applied toward a first membership purchase — it’s like earning a little extra credit along the way.
+
+Everyone, at Their Stations
+
+Experience the Master Chief’s iconic journey on GeForce NOW in Halo: Campaign Evolved — a modernized remake of Halo: Combat Evolved’s campaign — rebuilt with high-definition visuals, updated cinematics and refined gameplay. Whether discovering Halo for the first time or returning after 25 years to finish the fight, it’s as the Master Chief says: “We’re just getting started.”
+
+Crash-land on the mysterious ringworld alongside Cortana and uncover great secrets while battling overwhelming Covenant forces. Fight through the rebuilt campaign, then continue the adventure with three brand-new missions featuring the Master Chief and Sergeant Johnson. Expanded weapons, iconic vehicles, hijackable Wraith tanks and optional Skull modifiers offer even more ways to play.
+
+Suit up across PCs, Macs, Chromebooks, handhelds, mobile devices, TVs and more with GeForce NOW Ultimate, powered by GeForce RTX 5080-class performance in the cloud. Experience Halo with NVIDIA DLSS, ray tracing and NVIDIA Reflex technologies delivering higher frame rates and ultralow latency that keep every firefight feeling responsive and worthy of a Spartan.
+
+From solo gaming to online co-op modes, GeForce NOW cloud saves let members log in and pick up exactly where they left off across supported devices — no lengthy downloads, extra storage space or expensive hardware upgrades required. The only thing left to carry is the mission.
+--------
+https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/	
+
+Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson
+Anyone can make a robot move; NVIDIA Jetson makes it think.
+July 28, 2026 by Matthew Leib
+
+As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. 
+
+In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how the NVIDIA Jetson platform for edge AI and robotics gives busy developers both power and portability in one agentic-ready AI platform built for the physical world — and every industry. The best part? It all fits in one handbag.
+Compact enough to carry in a bag, yet powerful enough to take on the toughest problems, NVIDIA Jetson modules and developer kits power robots, autonomous machines and real-world AI projects in classrooms, labs and makerspaces — wherever inspiration strikes — enabling developers to build using industry-transforming frontier open models at the highest standard of safety and security.
+
+Whether for a student running their first robotics project on Jetson Orin Nano Super, a professor bringing cutting-edge AI to their curriculum on Jetson AGX Orin or a researcher pushing the limits of autonomous systems with Jetson AGX Thor, the platform enables building, learning and launching the next generation of intelligent robots — in every classroom, every lab and every country. 
+
+As Guo shows: bring the bag, Jetson brings the robot brain. 
+
+Check back here throughout the week for a series of examples — beginning with the Jetson Orin Nano Super below — to help developers navigate the NVIDIA Jetson platform and get started on their next robotics breakthroughs.
+
+NVIDIA Jetson Orin Nano Super: Ideal for Building a First AI Robot
+Robots deserve a real brain and, apparently, an incredibly chic commute. When Guo popped the Jetson Orin Nano Super into her Jacquemus Mini, she gained the entire AI stack right at her fingertips — now with a cute handle: clutch!
+
+Jetson Orin Nano Super brings desktop-class generative AI to a handbag-friendly developer kit, offering first-time builders a practical path to learning computer vision, building AI agents, prototyping edge AI and more. With 67 trillion operations per second (TOPS) of AI performance, Jetson Orin Nano Super helps developers get started on the problems they’ve always wanted to solve.
+
+To help builders move from inspiration to implementation, NVIDIA Jetson Device Skills and Jetson BSP Skills give students, researchers and developers an easier way to harness coding AI agents to create, optimize and deploy real-world AI at the edge.
+
+Robot builders can get inspired to start their first — or next — dream project with these innovative examples of Jetson Orin Nano Super in action:
+
+Self Driving My EV Car  | Model SidewalkPilot
+A custom SidewalkPilot AI model autonomously executes maneuvers in a toy electric vehicle using Jetson Orin Nano Super.
+
+Reachy Mini Jetson Assistant
+
+Reachy Mini Jetson Assistant is a low-latency, fully on-device voice and vision assistant for Reachy Mini Lite powered by NVIDIA Jetson Orin Nano Super. Everything runs locally with GPU acceleration — no cloud, no API keys, no internet required at runtime. Get started here.
+
+Building My First AI Robot From Scratch
+
+Coding with Lewis constructed an AI-powered robot using Mistral — an open-weight model — showing that first time robotics developers can build from the ground up using Jetson Orin Nano Super.
+
+Robotics AI Podcast
+Using Jetson Orin Nano Super, Asier Arnaz built a Yocto-powered Robotics AI video podcast featuring two AI models discussing topics in real-time and highlighting what makers are creating at the edge.
+
+Inspired yet? Get started by joining our livestream series. Across three modules, developers can learn to run generative AI, build claw agents and bring vision-language and vision-language-action models to power real-world physical AI applications — all on NVIDIA Jetson.
+
+Bring Powerful AI to Real-World Machines With Jetson AGX Orin 🔗
+With 275 TOPS of AI performance, Jetson AGX Orin is there when workloads get more complex. For Guo, it’s simple: more TOPS, more tote.
+
+For more advanced makers, Jetson AGX Orin brings the full power of AI into coursework, capstone projects and applied research, powering advanced robots, autonomous machines and AI at the edge — and proving serious AI no longer has to live in a server room, or be reserved for those who can afford one. 
+
+Jetson AGX Orin lets builders test real ideas in real environments, then carry the whole thing to class, the lab, the demo table or that first investor meeting. 
+
+With versatility for advanced robotics curriculum and serious startup projects, Jetson AGX Orin can support computer vision, generative AI, autonomous navigation and more, making it ideal for transforming virtually every industry, whether creating delivery bots, smart vision capabilities or industrial automation. 
+
+Go next-level with these innovative examples of Jetson AGX Orin in action:
+
+Live VLM WebUI
+A Carnegie Mellon University robotics team’s autonomous system builds a 3D map of an environment while simultaneously searching for survivors in time-critical rescue scenarios.
+
+Build Bigger Than ‘Back to School’ With Jetson AGX Thor 🔗
+School’s out and robotics builders mean business. The largest workloads deserve the biggest brain and Jetson AGX Thor lives up to its name, delivering up to 2070 FP4 teraflops of AI compute and 128GB of memory. Take it from the expert: Guo big or go back to class. Of course, a bigger brain begets a bigger bag.
+As the ultimate platform for next-generation humanoid robots and autonomous systems that require sophisticated real-time reasoning at the edge, this is the brain every robot has been waiting for. Jetson AGX Thor delivers server-class compute and AI agent capabilities for the most challenging workloads in labs, factories and the field — across every industry, in every corner of the world.
+
+With Jetson AGX Thor, the future is officially in the bag. Go big with these innovative examples of Jetson AGX Thor in action:
+
+Matcha Bot
+ first-place hackathon entry from University of Illinois Urbana-Champaign’s SIGRobotics team uses two robotic arms running the NVIDIA Isaac GR00T N1.5 model on Jetson AGX Thor to autonomously pour, prepare and whisk matcha.
+
+Multimodal AI Studio
+
+A creative development environment on Jetson AGX Thor combines vision, audio and language inputs to enable rich multimodal AI experimentation at the edge.
+
+Anyone can make a robot move. Jetson makes it think, putting frontier AI in the hands of every builder, everywhere. So, which NVIDIA Jetson module fits best? Start with one that’s right and then upgrade when ready. Isn’t that right, Guo?
